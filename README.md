@@ -1,5 +1,5 @@
-In-app gesture recognizer hint
-==============================
+In-app gesture operation hint
+=============================
 
 ![gif](https://raw.githubusercontent.com/hackers-painters/samurai-service-gesture/master/ServiceGesture.gif)
 
