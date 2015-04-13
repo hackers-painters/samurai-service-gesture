@@ -1,6 +1,10 @@
 In-app gesture recognizer hint
 ==============================
 
+<h3 align="center">
+  <img src="ServiceGesture.png" alt="example" />
+</h3>
+
 ## How to use
 
 - clone `https://github.com/hackers-painters/samurai-service-gesture.git`
